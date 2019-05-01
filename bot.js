@@ -10,4 +10,4 @@ channel.send(`gg`);
 }, 30)
 })
 
-client.login(process.env.WzUxMTgzNzU4MDA1MjkyMjM3OSwiMTU2LjE5NS4xNDEuMjE3Il0.XMm2eA.zrWa5o9iLoqfSZQcnXwciIXHMxc);
+client.login(process.env.NTExODM3NTgwMDUyOTIyMzc5.XMm3IA.9LiCDbfILuVCeu_ajWO2E8STDQ0);
