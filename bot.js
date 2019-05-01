@@ -10,4 +10,4 @@ channel.send(`gg`);
 }, 30)
 })
 
-client.login(process.env.NTExODM3NTgwMDUyOTIyMzc5.XMm3IA.9LiCDbfILuVCeu_ajWO2E8STDQ0);
+client.login(process.env. BOT_TOKEN);
