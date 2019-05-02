@@ -6,7 +6,7 @@ console.log("Scrpit By asfoura");
 client.on("ready", () => {
 let channel =     client.channels.get("573156516425760770")
 setInterval(function() {
-channel.send(`gg`);
+channel.send(`انا بهبد اهبد اهبد اهبد `);
 }, 30)
 })
 
